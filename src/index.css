@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .carousel-wrapper {
+    /* Add custom styles for the carousel wrapper */
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .presentation-mode {
+    /* Add custom styles for the carousel */
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .legend {
+    /* Add custom styles for the slide captions */
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+  }

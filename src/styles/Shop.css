@@ -1,0 +1,15 @@
+
+
+.presentation-mode {
+  /* Add custom styles for the carousel */
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+
+.legend {
+  /* Add custom styles for the slide captions */
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
